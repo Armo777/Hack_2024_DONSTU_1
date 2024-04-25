@@ -1,7 +1,7 @@
 package com.example.hack_2024_donstu_1.entity;
 
-import com.example.hack_2024_donstu.config.ArrayListConverter;
-import com.example.hack_2024_donstu.enums.VoteType;
+import com.example.hack_2024_donstu_1.config.ArrayListConverter;
+import com.example.hack_2024_donstu_1.enums.VoteType;
 import jakarta.persistence.*;
 
 import java.util.ArrayList;

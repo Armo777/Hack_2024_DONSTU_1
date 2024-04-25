@@ -1,7 +1,7 @@
 package com.example.hack_2024_donstu_1.controller;
 
-import com.example.hack_2024_donstu.entity.TeamEntity;
-import com.example.hack_2024_donstu.repositories.TeamRepository;
+import com.example.hack_2024_donstu_1.entity.TeamEntity;
+import com.example.hack_2024_donstu_1.repositories.TeamRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
